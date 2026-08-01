@@ -1,4 +1,4 @@
-## Olá! Eu sou o Felipe Ariki - Engenheiro de Software na Stone/Linx.
+## Olá! Eu sou o Felipe Ariki - Engenheiro de Software na Totvs/Linx.
 
 - 🔭 Hoje trabalho como desenvolvedor fullstack júnior
 - 🌱 Estou estudando C# e as tecnologias disponibilizadas pela microsoft
